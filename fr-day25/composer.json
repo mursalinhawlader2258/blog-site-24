@@ -1,0 +1,17 @@
+{
+  "name": " ",
+  "description": " ",
+  "keywords": [],
+  "license":" ",
+  "type": "packages",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "files":[],
+    "classmap": [],
+    "psr-4": {
+      "App\\":"app/"
+    }
+  }
+
+}
